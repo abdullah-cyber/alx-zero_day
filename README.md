@@ -1,1 +1,1 @@
-__This file is mandatory in all ALX School projects__
+__This is my first Alx project using git and github to navigate and update files and future work.__
